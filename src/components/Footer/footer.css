@@ -1,0 +1,24 @@
+.footer{
+    height: 54px;
+    padding: 0 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-top:1px solid #d8ad79;
+}
+.footer img{
+    width: 32px;
+    height: 12px;
+}
+.footerLinks{
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    text-decoration: none;
+}
+.footerLinks a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}

@@ -1,0 +1,17 @@
+.trialSection {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 454px;
+  height: 64px;
+  gap: 32px;
+}
+.button {
+  background-color: #1f1b16;
+  color: #bbad9c;
+  height: 40px;
+  width: 177px;
+}
+.link {
+  color: black;
+}

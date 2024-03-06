@@ -1,0 +1,10 @@
+.headerText{
+    font-size: 48px;
+    font-weight: 600;
+    font-style: italic;
+    width: 454px;
+}
+.bold{
+    font-style: bold;
+    font-weight: 900;
+}
